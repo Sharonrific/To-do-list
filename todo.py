@@ -29,7 +29,7 @@ if index >= 0 and index < len(to_do):
 for index, value in enumerate(to_do):
    print(f"{index + 1}. {value}")
 
-print("Task delete successully!")
+print("Task deleted successfully!")
   
    
 
